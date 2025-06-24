@@ -47,6 +47,8 @@ This script demonstrates a fully functional data preprocessing pipeline, automat
 
 ##OUTPUT:
 ![Image](https://github.com/user-attachments/assets/667ce2bc-406a-40fb-ad09-e3e1e1074afd)
+![Image](https://github.com/user-attachments/assets/1b2a9f24-dd14-494b-a995-b4c86a6f5afa)
+
 
 
 
