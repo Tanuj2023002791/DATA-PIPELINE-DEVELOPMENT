@@ -46,5 +46,7 @@ Outcome
 This script demonstrates a fully functional data preprocessing pipeline, automating the essential steps from raw data to clean, ready-to-use inputs. It is efficient, well-documented, and aligned with real-world data science practices. 
 
 ##OUTPUT:
+![Image](https://github.com/user-attachments/assets/667ce2bc-406a-40fb-ad09-e3e1e1074afd)
+
 
 
